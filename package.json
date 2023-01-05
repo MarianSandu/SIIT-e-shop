@@ -1,0 +1,14 @@
+{
+  "name": "5.e-shop",
+  "version": "1.0.0",
+  "description": "The e-shop project",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "marian",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

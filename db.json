@@ -1,0 +1,255 @@
+{
+  "items": [
+    {
+      "title": "Air Tshirt Black",
+      "price": "$45.99",
+      "oldPrice": "$69.71",
+      "image": "./resources/images/a1.png",
+      "category": "new",
+      "id": 1,
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false
+    },
+    {
+      "title": "Next Blue Blazer",
+      "price": "$99.99",
+      "oldPrice": "$109.71",
+      "image": "./resources/images/a8.png",
+      "category": "1+1 offer",
+      "id": 2,
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false
+    },
+    {
+      "title": "Air Tshirt Black",
+      "price": "$119.99",
+      "oldPrice": "$120.71",
+      "image": "./resources/images/a3.png",
+      "category": "new",
+      "id": 3
+    },
+    {
+      "title": "Maroon Puma Tshirt",
+      "price": "$79.99",
+      "oldPrice": "$120.71",
+      "image": "./resources/images/a4.png",
+      "category": "new",
+      "id": 4
+    },
+    {
+      "title": "Multicoloured Tshirts",
+      "price": "$129.99",
+      "oldPrice": "$150.71",
+      "image": "./resources/images/a5.png",
+      "category": "combo pack",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": true,
+      "id": 5
+    },
+    {
+      "title": "Air Tshirt Blac",
+      "price": "$129.99",
+      "oldPrice": "$150.71",
+      "image": "./resources/images/a6.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 6
+    },
+    {
+      "title": "Red Dress",
+      "price": "$129.99",
+      "oldPrice": "$150.71",
+      "image": "./resources/images/a7.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 7
+    },
+    {
+      "title": "Wedding Blazers",
+      "price": "$149.99",
+      "oldPrice": "$160.71",
+      "image": "./resources/images/a2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 8
+    },
+    {
+      "title": "Nude Dress",
+      "price": "$45.99",
+      "oldPrice": "$69.71",
+      "image": "./resources/images/g1.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 9
+    },
+    {
+      "title": "Blue Vest",
+      "price": "$45.99",
+      "oldPrice": "$89.71",
+      "image": "./resources/images/g2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 10
+    },
+    {
+      "title": "Red Striped Shirt",
+      "price": "$45.99",
+      "oldPrice": "$79.71",
+      "image": "./resources/images/g3.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 11
+    },
+    {
+      "title": "Regular Tshirt",
+      "price": "$35.99",
+      "oldPrice": "$49.71",
+      "image": "./resources/images/mw2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 12
+    }
+  ],
+  "exclusiveItems": [
+    {
+      "title": "Watches",
+      "price": "$45.99",
+      "oldPrice": "$69.71",
+      "image": "./resources/Men's wear_files/ep2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 1
+    },
+    {
+      "title": "Blazers",
+      "price": "$75.99",
+      "oldPrice": "$109.71",
+      "image": "./resources/Men's wear_files/a2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 2
+    },
+    {
+      "title": "Shirts",
+      "price": "$25.99",
+      "oldPrice": "$39.71",
+      "image": "./resources/Men's wear_files/mw2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 3
+    }
+  ],
+  "filterMainItems": [
+    {
+      "title": "Blazers",
+      "price": "$45.99",
+      "oldPrice": "$79.71",
+      "image": "./resources/Men's wear_files/a8.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 1
+    },
+    {
+      "title": "Sandals",
+      "price": "$65.99",
+      "oldPrice": "$89.71",
+      "image": "./resources/Men's wear_files/mw1.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 2
+    },
+    {
+      "title": "Watches",
+      "price": "$105.99",
+      "oldPrice": "$149.71",
+      "image": "./resources/Men's wear_files/ep3.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 3
+    },
+    {
+      "title": "Shoes",
+      "price": "$75.99",
+      "oldPrice": "$99.71",
+      "image": "./resources/Men's wear_files/mw3.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 4
+    },
+    {
+      "title": "Shirts",
+      "price": "$55.99",
+      "oldPrice": "$99.71",
+      "image": "./resources/Men's wear_files/g3.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 5
+    },
+    {
+      "title": "Watches",
+      "price": "$105.99",
+      "oldPrice": "$179.71",
+      "image": "./resources/Men's wear_files/ep4.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 6
+    },
+    {
+      "title": "T-shirts",
+      "price": "$25.99",
+      "oldPrice": "$49.71",
+      "image": "./resources/Men's wear_files/mw2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 7
+    },
+    {
+      "title": "Vests",
+      "price": "$75.99",
+      "oldPrice": "$99.71",
+      "image": "./resources/Men's wear_files/g2.png",
+      "category": "new",
+      "latestColections": true,
+      "specialOffers": false,
+      "collections": false,
+      "id": 8
+    }
+  ]
+}
